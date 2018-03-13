@@ -1,6 +1,5 @@
-#Adaptive Diversity Based  Ensemble-method for binary classification
-
 Folder 1:Paper and refered paper 
+	 Repeat Buyers Dataset
 
 Folder 2:Codes-contains the working codes 
 	 driver codes - These are the runnable scripts which are used to construct the ensemble classifier using different              			diversity methods.
@@ -9,8 +8,8 @@ Folder 2:Codes-contains the working codes
 	 relabeler - This is used for relabeling the train data set
 	 meta_model - This is used for constructing and training the meta model
 	 Graph Codes - Plots the bar graphs
-			
-Folder 3:Repeat Buyers Dataset
+		
+
 
 			
 # Ensemble-Classifier
