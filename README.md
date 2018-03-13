@@ -1,6 +1,7 @@
 #Adaptive Diversity Based  Ensemble-method for binary classification
 
 Folder 1:Paper and refered paper 
+
 Folder 2:Codes-contains the working codes 
 	 driver codes - These are the runnable scripts which are used to construct the ensemble classifier using different              			diversity methods.
 	 base model selector codes - These codes are used to select the base models from different single train models using 				hierarchical clustering and rmsd method
